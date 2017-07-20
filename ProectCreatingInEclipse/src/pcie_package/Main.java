@@ -1,10 +1,12 @@
 package pcie_package;
 
+import java.util.WeakHashMap;
+
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("We writing some logik1");
+		
 	}
 
 }
